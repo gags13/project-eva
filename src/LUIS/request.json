@@ -1,0 +1,29 @@
+﻿{
+  "session": {
+    "sessionId": "SessionId.f492aafb-1fa1-47fd-b809-0626ba87afc8",
+    "application": {
+      "applicationId": "amzn1.ask.skill.a4b6c703-29e1-49ee-bdfc-e06f0d5dd637"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AETB7KYJRATWYASX2DIXH5ZMT3BYDGLH55EU65UCNFGEBIM7O4W5OVPABTC6UUIMTO26FM53ZVPQSUF4I3J44FT5VWS4H55ETVYQOX5GNRDNUVW635TS66QXECXR4CKLC7PL3CXKEGRJ5Y7HDLNK3STMMQ45YXIVDYB3QT5WGJVPCJFBYT4LG6Y2EOYLKIMNWRNO4TJZXZAEVBA"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.92262030-bff3-4fe3-a447-17bce7713beb",
+    "locale": "en-US",
+    "timestamp": "2017-04-09T12:20:05Z",
+    "intent": {
+      "name": "SetActuator",
+      "slots": {
+        "Position": {
+          "name": "Position",
+          "value": "12"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+} 
